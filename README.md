@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **ReactJS, NextJs**
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me: **mohammadkhaseeb6@gmail.com**
-- Portifolio: **(https://m7amd1.github.io/Portfolio/)**
+- Portfolio: **(https://m7amd1.github.io/Portfolio/)**
 
 
 ## 🌐 Socials:
