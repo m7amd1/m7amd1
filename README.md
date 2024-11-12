@@ -9,8 +9,8 @@ standards and troubleshooting.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ReactJS, NextJs**
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working on **ReactJS, Strapi**
+- 🌱 I’m currently learning **Mobile Development -> Flutter**
 - 📫 How to reach me: **mohammadkhaseeb6@gmail.com**
 - Portfolio: **(https://m7amd1.github.io/Portfolio/)**
 
