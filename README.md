@@ -1,4 +1,4 @@
-## Hi there 👋 , i`m Mohammad khaseeb
+## Hi there 👋 , i`m Mohammad Khaseeb
 
 ## About Me 
 Innovative and detail-oriented Fresher Front End Developer with a passion for
