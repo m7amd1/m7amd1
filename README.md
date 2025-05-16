@@ -1,7 +1,7 @@
 ## Hi there 👋 , i`m Mohammad Khaseeb
 
 ## About Me 
-Innovative and detail-oriented Fresher Front End Developer with a passion for
+Innovative and detail-oriented Front End Developer with a passion for
 creating responsive and user-friendly websites. Skilled in collaborating with backend developers, utilizing version control systems, and staying up-to-date on
 emerging technologies. Proven track record in improving website traffic,
 performance, and functionality through the implementation of front-end coding
