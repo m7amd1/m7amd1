@@ -11,7 +11,7 @@ HackerRank. Dedicated to continuous learning and delivering high-quality, scalab
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Next.js, TypeScript
-- 🌱 I’m currently learning Next.js Api inetgration, Authentication, Authorization
+- 🌱 I’m currently learning Next.js Api inetegration, Authentication, Authorization
 - 📫 How to reach me: mohammadkhaseeb6@gmail.com
 - Portfolio: (https://portfolio-mu-two-88.vercel.app/)
 
