@@ -1,18 +1,5 @@
-## Hi there 👋 , i`m <h1 align="center">
-  <span style="display: inline-block; border-right: 2px solid; white-space: nowrap; overflow: hidden; animation: typing 3s steps(30, end), blink 0.75s step-end infinite;">
-    Mohammad Khaseeb
-  </span>
-</h1>
+## Hi there 👋 , i`m Mohammad Khaseeb
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  50% { border-color: transparent }
-}
-</style>
 
 ## About Me 
 Detail-oriented and innovative Front End Developer with a strong foundation in HTML, CSS,
@@ -46,8 +33,3 @@ Here are some ideas to get you started:
 ![Neon](https://img.shields.io/badge/NeonDB-1E90FF?style=for-the-badge&logo=neon&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
