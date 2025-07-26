@@ -1,4 +1,18 @@
-## Hi there 👋 , i`m Mohammad Khaseeb
+## Hi there 👋 , i`m <h1 align="center">
+  <span style="display: inline-block; border-right: 2px solid; white-space: nowrap; overflow: hidden; animation: typing 3s steps(30, end), blink 0.75s step-end infinite;">
+    Mohammad Khaseeb
+  </span>
+</h1>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
 
 ## About Me 
 Detail-oriented and innovative Front End Developer with a strong foundation in HTML, CSS,
