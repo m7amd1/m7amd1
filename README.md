@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 ![Neon](https://img.shields.io/badge/NeonDB-1E90FF?style=for-the-badge&logo=neon&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+![Alt Text](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
