@@ -1,4 +1,4 @@
-## Hi there 👋 , i`m Mohammad Khaseeb
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Mohammad+Khaseeb" alt="Typing SVG" />
 
 
 ## About Me 
