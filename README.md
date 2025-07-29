@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Mohammad+Khaseeb" alt="Typing SVG" />
-
+## Hi there 👋 , I'm Mohammad Khaseeb
 
 ## About Me 
 Detail-oriented and innovative Front End Developer with a strong foundation in HTML, CSS,
