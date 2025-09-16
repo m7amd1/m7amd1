@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Next.js, TypeScript
 - 🌱 I’m currently learning Nodejs, expressjs
 - 📫 How to reach me: mohammadkhaseeb6@gmail.com
-- Portfolio: (https://portfolio-mu-two-88.vercel.app/)
+- Portfolio: (https://khaseeb-portfolio.vercel.app/)
 
 
 ## 🌐 Socials:
